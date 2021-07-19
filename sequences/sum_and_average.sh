@@ -7,3 +7,4 @@ do
 	sum=$(($sum+$val))
 done
 echo "Sum of 5 digit is : $sum"
+echo "Average is : "$(($sum/5))
