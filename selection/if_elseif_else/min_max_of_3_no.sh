@@ -28,7 +28,6 @@ do
        if [[ "$cal" -lt "$min" ]];then
                min=$cal
        fi
-
 done
 
 echo "Maximum value is : $max "
